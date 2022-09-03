@@ -1,9 +1,10 @@
 ---
+layout: default
 ---
 ### KAPS
 
 # 연애 [Yeon-ae]
-## This Halmoni will find you love.
+## Halmonis will find you love.
 
 This winter, KAPS is launching a dating service. You heard right… a dating service. But it’s just for fun. So don’t take it too seriously. Just sign up, and see what happens!
 
