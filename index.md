@@ -1,7 +1,5 @@
 ---
-layout: default
 ---
-### KAPS
 
 # 연애 [Yeon-ae]
 ## Halmonis will find you love.
